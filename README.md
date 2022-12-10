@@ -1,7 +1,7 @@
 # AndroidMountNas
 由于本人特别希望能有种方法使得NAS能挂载到手机上，由于Ehviewer中的下载选项中，是直接打开安卓原生的文件系统，因此是没有Nas的这种选项的。再加上如果要实现手机直接挂载cifs的功能，一种是直接刷第三方涵盖cifs的rom，或者在手机上通过挂载linux系统再在linux系统上挂载smb。由于操作不当，第二种方法未能成功。
 
-在https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/378中我曾经使用google store上的cifs文件管理系统成功挂载，但是也正如所说的，只能访问浏览，不能直接下载到nas上
+在  https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/378 中我曾经使用google store上的cifs文件管理系统成功挂载，但是也正如所说的，只能访问浏览，不能直接下载到nas上
 
 在此提出一种新的方法，本方法应该无需越狱适合所有安卓手机，也给后来者提供启发
 
